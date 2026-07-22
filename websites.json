@@ -10,5 +10,11 @@
         "slug": "a41b03ff-e04b-4823-bbba-3988b77ad194",
         "about": "Rowdy's garden",
         "url": "https://rowedahelicon.com"
-    }
+  }
+  {
+        "name": "Zen's Zone",
+        "UUID": "c9e9e566-b414-49ce-a37c-1fda8b471ef7",
+        "about": "Zen's corner of the internet.",
+        "url": "https://zenthefox.online/",
+  }
 ]
